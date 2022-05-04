@@ -15,8 +15,7 @@ In order to understand the schema needed for this database, I decided to mock up
 
 ![diagram](https://github.com/Ryndine/sql_employee_database/blob/main/Images/ERDiagram.jpg)
 
-From here I decided to go with this schema and import the data from the csv files:  
-[Database Schema](https://github.com/Ryndine/sql_employee_database/blob/main/schema.sql)
+From here I decided to go with this schema [(SQL File)](https://github.com/Ryndine/sql_employee_database/blob/main/schema.sql) and import the data from the csv files:  
 
 **Creating views:**
 
