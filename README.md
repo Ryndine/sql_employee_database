@@ -32,7 +32,7 @@ To gain further insight into the database I wanted to look at the following data
 
 Since I wanted this data to be temporary for the goal of quickly getting query results back, I decided they were best used as views.
 
-**Analysis:**
+## Analysis:
 
 [Example of the postgres database:](https://github.com/Ryndine/sql_employee_database/blob/main/simple_queries.sql)
 ![example](https://github.com/Ryndine/sql_employee_database/blob/main/Images/database_example.jpg)
