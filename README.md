@@ -34,17 +34,17 @@ Since I wanted this data to be temporary for the goal of quickly getting query r
 
 ## Analysis:
 
-[Example of the postgres database:](https://github.com/Ryndine/sql_employee_database/blob/main/simple_queries.sql)
+[Example of the postgres database:](https://github.com/Ryndine/sql_employee_database/blob/main/simple_queries.sql)  
 ![example](https://github.com/Ryndine/sql_employee_database/blob/main/Images/database_example.jpg)
 
-[All retiring employees:](https://github.com/Ryndine/sql_employee_database/blob/main/view_retiring_employees.sql)
+[All retiring employees:](https://github.com/Ryndine/sql_employee_database/blob/main/view_retiring_employees.sql)  
 ![employees](https://github.com/Ryndine/sql_employee_database/blob/main/Images/retiring_employees.jpg)
 
-[Retiring employees without duplicates:](https://github.com/Ryndine/sql_employee_database/blob/main/view_unique_titles.sql)
+[Retiring employees without duplicates:](https://github.com/Ryndine/sql_employee_database/blob/main/view_unique_titles.sql)  
 ![retiring](https://github.com/Ryndine/sql_employee_database/blob/main/Images/unique_titles.jpg)
 
-[Number of employees retiring by title:](https://github.com/Ryndine/sql_employee_database/blob/main/view_number_retiring.sql)
+[Number of employees retiring by title:](https://github.com/Ryndine/sql_employee_database/blob/main/view_number_retiring.sql)  
 ![titles](https://github.com/Ryndine/sql_employee_database/blob/main/Images/retiring_titles.jpg)
 
-[Employees eligilible for mentorship:](https://github.com/Ryndine/sql_employee_database/blob/main/view_mentorship_eligibility.sql)
+[Employees eligilible for mentorship:](https://github.com/Ryndine/sql_employee_database/blob/main/view_mentorship_eligibility.sql)  
 ![mentorship](https://github.com/Ryndine/sql_employee_database/blob/main/Images/mentorship.jpg)
