@@ -1,7 +1,7 @@
 # SQL Employee Database Analysis
 
 ## Objective: 
-Using sql views and queries, analysis the database for business. Find potential mentorship candidates, which employees are retiring and from which departments, 
+Using sql views and queries, analysis the database for business. Find potential mentorship candidates, which employees are retiring and from which departments. 
 
 ## Tools & databases used:
 - PostgreSQL
