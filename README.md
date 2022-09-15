@@ -20,7 +20,7 @@ From here I decided to go with this schema [(SQL File)](https://github.com/Ryndi
 **Creating views:**
 
 To gain further insight into the database I wanted to look at the following data:
-- Retirment eligibility
+- Retirement eligibility
 - Retirement for current employees in the company
 - Employees gender and salary
 - Department managers
